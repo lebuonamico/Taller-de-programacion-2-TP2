@@ -1,2 +1,7 @@
-# Taller-de-programacion-2-TP2
-Desarrollo del trabajo practico numero dos de la materia de taller de programacion
+Instituto Tecnológico de Educación Superior ORT Argentina
+
+Materia: Taller de Programación 2.
+
+Trabajo Practico Número 2, "FileSystem Sincrónico y Asincrónico"
+
+Ejecución del programa con "npm start"

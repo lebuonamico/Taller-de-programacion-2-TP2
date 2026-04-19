@@ -1,0 +1,17 @@
+{
+	"contenidoStr": "{\n  \"name\": \"taller-de-programacion-2-tp2\",\n  \"version\": \"1.0.0\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",\n    \"start\": \"node main.js\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"description\": \"\"\n}\n",
+	"contenidoObj": {
+		"name": "taller-de-programacion-2-tp2",
+		"version": "1.0.0",
+		"main": "index.js",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1",
+			"start": "node main.js"
+		},
+		"keywords": [],
+		"author": "",
+		"license": "ISC",
+		"description": ""
+	},
+	"size": 271
+}
