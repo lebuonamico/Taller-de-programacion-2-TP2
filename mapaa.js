@@ -8,7 +8,7 @@ async function main() {
 
         const stats = await fs.stat('package.json');
 
-        const info = {
+        let info = {
             contenidoStr,
             contenidoObj,
             size: stats.size

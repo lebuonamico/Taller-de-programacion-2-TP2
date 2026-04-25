@@ -6,7 +6,7 @@ fs.readFile('package.json', 'utf-8')
 
         return fs.stat('package.json')
             .then(stats => {
-                const info = {
+                let info = {
                     contenidoStr,
                     contenidoObj,
                     size: stats.size
